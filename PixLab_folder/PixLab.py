@@ -236,7 +236,7 @@ def finalize_outputs(image, target_points, distractors, base_path_no_ext):
 
 
 def main():
-    path = "C:/Users/mrgtd/OneDrive - UMONS/MA 2/Q1/IA_case_studie/PixLab"
+    path = "C:/Users/mrgtd/OneDrive - UMONS/MA 2/Q1/IA_case_studie/PixLab_folder/PixLab"
 
     # ---- Choix mode ----
     rep_mode = input("As-tu déjà un fichier JSON d'annotations ? (o/n) : ").strip().lower()
